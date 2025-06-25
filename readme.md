@@ -13,7 +13,7 @@ This project showcases how the same Arduino hardware setup can be programmed for
 Each application has its own dedicated folder in this repository:
 
 - **`/calculator/`** - Contains `calculator.ino` and related files for the calculator application
-- **`/car-park-machine/`** - Contains `car-park-machine.ino` and related files for the parking ticket machine
+- **`/carpark software/`** - Contains `car-park-machine.ino` and related files for the parking machine
 - **`/soundboard/`** - Will contain `soundboard.ino` when completed (coming soon)
 
 Simply navigate to the desired folder and open the `.ino` file in Arduino IDE to flash that specific application to your hardware. All applications use the same wiring setup!
@@ -50,7 +50,7 @@ A functional calculator featuring:
 - Error handling for invalid operations
 - Beep feedback for button presses
 
-### 3. 🎵 **Custom Soundboard** *(Coming Soon)*
+### 3. 🎵 **Custom Soundboard** *(requires mod)*
 Interactive sound effects board with:
 - Multiple sound effect slots
 - Customizable button mappings
@@ -108,26 +108,6 @@ cd arduino-multi-purpose-platform
    - Open desired `.ino` file in Arduino IDE
    - Select your Arduino board and port
    - Click **Upload**
-
-## 📁 Project Structure
-
-```
-arduino-multi-purpose-platform/
-├── README.md
-├── Arduino Car Park Hardware Setup.pdf    # Detailed wiring guide
-├── Arduino Car Park Hardware Visual.png   # Hardware photo reference
-├── car-park-machine/
-│   ├── car-park-machine.ino
-│   └── README.md
-├── calculator/
-│   ├── calculator.ino
-│   └── README.md
-├── soundboard/
-│   ├── soundboard.ino (coming soon)
-│   └── README.md
-└── libraries/
-    └── installation-guide.md
-```
 
 ## 🎮 Usage Examples
 
@@ -237,8 +217,7 @@ This project is open source and available under the MIT License. Feel free to us
 If you encounter issues or have questions:
 - Check the **troubleshooting section** above
 - Review individual project README files
-- Open an issue on GitHub
-- Share your builds and modifications!
+- Share your builds and modifications
 
 ---
 
