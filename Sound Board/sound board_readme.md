@@ -211,7 +211,7 @@ Key Pressed: #
 
 ## License
 
-Open source - feel free to modify and share!
+Open source - feel free to modify 
 
 ## Contributing
 
@@ -222,3 +222,7 @@ Found a bug or want to add features? Submit issues or pull requests on GitHub.
 **Version:** 1.0  
 **Last Updated:** June 2025  
 **Compatible:** Arduino Uno, Nano, Pro Mini
+
+## Author
+
+**Made by Thash Kunarajah**
