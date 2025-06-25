@@ -1,4 +1,4 @@
-# Smart Car Park Payment System
+# Car Park Terminal
 
 An Arduino-based automated car park payment terminal with LCD display, keypad input, and admin functionality.
 
@@ -188,17 +188,8 @@ Use an I2C scanner sketch to find your LCD's address if needed.
 
 This project is open source. Feel free to modify and distribute according to your needs.
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
----
-
-**Note**: This system is designed for educational and demonstration purposes. For commercial deployment, consider additional security measures and payment processing integration.
+**Note**: This system is designed for educational and demonstration purposes.
 
 ## Author
 
