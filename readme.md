@@ -89,13 +89,7 @@ Arduino Uno Connections:
   - `LiquidCrystal` or `LiquidCrystal_I2C` (for LCD)
   - `Keypad` library (for 4x4 keypad)
 
-### Installation & Setup
 
-1. **Clone this repository:**
-```bash
-git clone https://github.com/yourusername/arduino-multi-purpose-platform.git
-cd arduino-multi-purpose-platform
-```
 
 2. **Install required libraries:**
    - Open Arduino IDE
