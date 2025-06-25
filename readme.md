@@ -172,11 +172,11 @@ This project helps you learn:
 ## 🚀 Future Enhancements
 
 ### Planned Features:
-- **Custom Soundboard** implementation
-- **Menu system** for switching between applications
+- **Custom Soundboard** implementation - [X]RELEASED 25/06/25[X]
+- **Menu system** for switching between applications (mock lower powered mimic of older phones)
 - **EEPROM storage** for settings persistence
-- **Real-time clock** integration
-- **Wireless connectivity** options
+- **Real-time clock** integration (digital Clock)
+- **Wireless connectivity** options e.g. to control smarthome appliances via home assistant
 
 ### Community Contributions Welcome:
 - New application ideas
@@ -189,8 +189,7 @@ This project helps you learn:
 Perfect for:
 - **Arduino beginners** learning hardware interfacing
 - **Students** studying embedded systems
-- **Makers** exploring multi-purpose hardware designs
-- **Teachers** demonstrating programming concepts
+- **Experimental Makers** exploring multi-purpose hardware designs
 - **Hobbyists** building foundational projects
 
 ## 🤝 Contributing
