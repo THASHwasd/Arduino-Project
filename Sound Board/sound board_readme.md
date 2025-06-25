@@ -213,10 +213,6 @@ Key Pressed: #
 
 Open source - feel free to modify 
 
-## Contributing
-
-Found a bug or want to add features? Submit issues or pull requests on GitHub.
-
 ---
 
 **Version:** 1.0  
