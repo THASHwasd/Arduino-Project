@@ -8,6 +8,16 @@ A simple, **beginner-friendly Arduino project** that demonstrates versatile hard
 
 This project showcases how the same Arduino hardware setup can be programmed for different purposes by simply flashing different code. Perfect for beginners learning Arduino fundamentals and exploring various project possibilities.
 
+## 📂 Code Organization
+
+Each application has its own dedicated folder in this repository:
+
+- **`/calculator/`** - Contains `calculator.ino` and related files for the calculator application
+- **`/car-park-machine/`** - Contains `car-park-machine.ino` and related files for the parking ticket machine
+- **`/soundboard/`** - Will contain `soundboard.ino` when completed (coming soon)
+
+Simply navigate to the desired folder and open the `.ino` file in Arduino IDE to flash that specific application to your hardware. All applications use the same wiring setup!
+
 ## 🛠️ Hardware Components
 
 ### Required Components
