@@ -321,3 +321,7 @@ Open source - modify and share freely!
 **Version:** 1.3  
 **Last Updated:** June 2025  
 **Compatible:** Arduino Uno, Nano, Pro Mini
+
+## Author
+
+**Made by Thash Kunarajah**
